@@ -3,6 +3,7 @@
 }
 
 h1{
+    color:white;
     font-size: 55px;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -10,6 +11,8 @@ h2{
     font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
 }
+
+
 .projet{
     text-decoration: none;
 }
@@ -38,6 +41,7 @@ h2{
     border-radius: 10%;
 }
 .text{
+    color:white;
     padding-top: 15px;
     padding-right: 15px;
     padding-left: 15px;
@@ -94,6 +98,7 @@ input[type=email]{
     text-decoration: none;
 }
 .text1{
+    color:white;
     padding-top: 15px;
     padding-right: 15px;
     padding-left: 15px;
