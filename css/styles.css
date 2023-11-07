@@ -3,7 +3,7 @@
 }
 
 h1{
-    color:white;
+    
     font-size: 55px;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -11,7 +11,9 @@ h2{
     font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
 }
-
+h3{
+    color:white;
+}
 
 .projet{
     text-decoration: none;
@@ -98,7 +100,7 @@ input[type=email]{
     text-decoration: none;
 }
 .text1{
-    color:white;
+    
     padding-top: 15px;
     padding-right: 15px;
     padding-left: 15px;
